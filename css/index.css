@@ -1,0 +1,21 @@
+.saya{
+    color:black;
+    border-style: dashed;
+    background-color:aquamarine;
+    text-decoration-line: underline;
+    text-align: center;
+}
+img{
+    background-color: white;
+    border:1px solid black;
+    width: 400px;
+}
+.yellow{
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+body{
+    background-color: blue;
+}
